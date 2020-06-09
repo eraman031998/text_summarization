@@ -1,4 +1,4 @@
-# Text Summarization
+# Text Summarization using Natural Language Processing
 Text summarization is the problem of creating a short, accurate and fluent summary of a longer text document. Automatic text summarization methods are greatly needed to address the ever-growing amount of text data available online to both better help discover relevant information and to consume relevant information faster.
 Summarization system often have additional evidence they can utilize in order to specify the most important topics of documents. For example, when summarizing blogs, there are discussions or comments coming after the blog posts that are good sources of information to determine which parts of the blog are critical and interesting. In scientific paper summarization, there is a considerable amount of information such as cited papers and conference papers which can be leveraged to identify important sentences in the original papers.
 In this work, I would like to discover the problem of text summarization in natural language processing. Here, I have used one of the various methods used for text summarization.
